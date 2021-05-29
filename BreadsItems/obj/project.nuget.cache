@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BbEKx+93b0QBiHHEsuaPg+AFFmQJFe1NQ60uUH1JMNLHBYnrmm4PwNc7oh4qTn01Oa7MN+9unjQOaGcyku6bnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aidst\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BreadsItems\\ShotgunBullets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aidst\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
