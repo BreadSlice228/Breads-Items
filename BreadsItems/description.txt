@@ -1,5 +1,10 @@
 Change Log!!
 
+V 1.0.2.2
+-----------------------
+Added Hammer
+Added Musket Ball Crafting Recipe
+
 V 1.0.2
 -----------------------
 Added Shotling Shark Weapon

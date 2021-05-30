@@ -15,7 +15,7 @@ namespace BreadsItems.Items
 
 		public override void SetDefaults()
 		{
-			item.damage = 6; // Sets the item's damage. Note that projectiles shot by this weapon will use its and the used ammunition's damage added together.
+			item.damage = 15; // Sets the item's damage. Note that projectiles shot by this weapon will use its and the used ammunition's damage added together.
 			item.ranged = true; // sets the damage type to ranged
 			item.width = 58; // hitbox width of the item
 			item.height = 24; // hitbox height of the item
