@@ -1,4 +1,11 @@
-Current Items
+Change Log!!
 
-5 Sunflowers + Wooden Sword ---> Sword Flower
-Water Gun ---> Water Canister
+V 1.0.2
+-----------------------
+Added Shotling Shark Weapon
+Added Changelog
+
+V 1.0
+-----------------------
+Added Sword Flower Weapon
+Added Water Canister Ammo
