@@ -1,3 +1,0 @@
-displayName = Bread's Items
-author = Bread
-version = 1.0.3
